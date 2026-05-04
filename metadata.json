@@ -1,0 +1,6 @@
+{
+  "name": "Impulse Lab",
+  "description": "An interactive visualization of the relationship between Force, Time, and Impulse with a safety simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
